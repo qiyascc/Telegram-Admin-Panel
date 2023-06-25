@@ -24,8 +24,9 @@ npm install
 ```
 
 ### 🔥 Running
+ You can run the whole project with the following single command. 
 ```sh
-npm start
+npm run dev
 ```
 
 ### 🛠 Technologies and Libraries Used
